@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="milestone-4-programmatic-access-java-program-via-jdbc-thihaaung32:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/milestone_4_programmatic_access_java_program_via_jdbc_thihaaung32_jar2</output-path>
+    <root id="archive" name="milestone-4-programmatic-access-java-program-via-jdbc-thihaaung32.jar">
+      <element id="module-output" name="csc675" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-9.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
