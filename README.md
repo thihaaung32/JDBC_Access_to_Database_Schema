@@ -5,7 +5,7 @@
 | Student Information |                 |
 |:-------------------:|-----------------|
 |  Student Name       | Thiha Aung      |
-|  Student Email      | taung5@sfsu.edu |
+|  Student Email      |                 |
 
 
 ## Purpose of jar Folder
